@@ -5,12 +5,12 @@ body {
   background-color: #fef3f3;
 }
 
-.masha-container {
+.maya-container {
   position: relative;
   display: inline-block;
 }
 
-.masha {
+.maya {
   width: 200px;
 }
 
@@ -23,4 +23,5 @@ body {
   border-radius: 10px;
   padding: 10px;
   max-width: 200px;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
 }
